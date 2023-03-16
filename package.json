@@ -1,0 +1,17 @@
+{
+  "name": "musicreview",
+  "version": "1.0.0",
+  "description": "[ ] Create frontend and backend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "concurrently": "^7.6.0",
+    "husky": "^8.0.3",
+    "prettier": "^2.8.4"
+  }
+}
